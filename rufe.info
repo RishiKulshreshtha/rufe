@@ -1,0 +1,4 @@
+name = Remove Unmanaged File Entries (RUFE)
+description = Drupal Module to Remove Unmanaged File Entries.
+core = 7.x
+version = 7.x
